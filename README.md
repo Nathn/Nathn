@@ -3,7 +3,7 @@
 <a href="https://twitter.com/nthtrc">
   <img align="left" alt="NthTrc | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.com/users/260041679162048513">
   <img align="left" alt="N4t's Discord profile" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
@@ -12,10 +12,10 @@
 
 Hi, I'm Nathan Tranchant, a passionate self-taught frontend web developer from France.
 
-- 🔭 I’m currently working on my project [NBChat](https://github.com/nthtr/nbchat)
+- 🔭 I’m currently working on my project [NBChat](https://github.com/NthTr/nbchat)
 - 🌱 I’m currently learning Typescript & Golang
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- ❔ Ask me about anything [here](https://github.com/NthTr/NthTr/issues)
+- 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
 
 **Languages and Tools:**  
 
