@@ -12,7 +12,7 @@
 
 Hi, I'm Nathan Tranchant, a passionate self-taught frontend web developer from France.
 
-- 🔭 I’m currently working on my project [NBChat](https://github.com/NthTr/nbchat)
+- 🔭 I’m currently working on my projects [NBChat](https://github.com/NthTr/nbchat) and [NBDiary](https://github.com/NthTr/nbdiary)
 - 🌱 I’m currently learning Typescript & Golang
 - ❔ Ask me about anything [here](https://github.com/NthTr/NthTr/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
