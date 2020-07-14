@@ -6,15 +6,18 @@
 <a href="https://discord.com/users/260041679162048513">
   <img align="left" alt="N4t's Discord profile" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+<a href="https://dev.to/nathn">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nathan's DEV Profile" height="21" width="21">
+</a>
 
 <br />
 <br />
 
 Hi, I'm Nathan Tranchant, a passionate self-taught frontend web developer from France.
 
-- 🔭 I’m currently working on my projects [NBChat](https://github.com/NthTr/nbchat) and [NBDiary](https://github.com/NthTr/nbdiary)
+- 🔭 I’m currently working on my projects [NBChat](https://github.com/Nathn/nbchat) and [NBDiary](https://github.com/Nathn/nbdiary)
 - 🌱 I’m currently learning Typescript & Golang
-- ❔ Ask me about anything [here](https://github.com/NthTr/NthTr/issues)
+- ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
 
 **Languages and Tools:**  
