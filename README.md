@@ -4,7 +4,7 @@
   <img align="left" alt="NthTrc | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.com/users/260041679162048513">
-  <img align="left" alt="N4t's Discord profile" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Nathn's Discord profile" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="https://dev.to/nathn">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nathan's DEV Profile" height="21" width="21">
