@@ -30,7 +30,7 @@ Hi, I'm Nathan Tranchant, a passionate self-taught frontend web developer from F
 
 
 
-![counter](https://eniepbxd6ioqkta.m.pipedream.net)
+![counter](https://eniepbxd6ioqkta.m.pipedream.net)![Visitor Count](https://profile-counter.glitch.me/{Nathn}/count.svg)
 
 <!--
 **NthTr/NthTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
