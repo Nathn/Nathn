@@ -9,7 +9,9 @@
 <a href="https://dev.to/nathn">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nathan's DEV Profile" height="21" width="21">
 </a>
-
+<a href="https://dev.to/nathn">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/318_Stack_Overflow_logo-512.png" alt="Nathn's StackOverflow Profile" height="21" width="21">
+</a>
 <br />
 <br />
 
