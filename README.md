@@ -17,7 +17,7 @@
 
 Hi, I'm Nathan Tranchant, a passionate self-taught frontend web developer from France.
 
-- 🔭 I’m currently working on my project [Nwittr](https://github.com/Nathn/Nwittr)
+- 🔭 I’m currently working on my project [Squakr](https://github.com/Nathn/Squakr)
 - 🌱 I’m currently learning Typescript & Golang
 - ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
