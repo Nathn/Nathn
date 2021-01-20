@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nathan !](https://nathan.tranchant.fr) 👋
 
-<a href="https://twitter.com/nthtrc">
+<a href="https://twitter.com/natranchant">
   <img align="left" alt="NthTrc | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.com/users/260041679162048513">
