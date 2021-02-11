@@ -13,7 +13,7 @@
   <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/dev-logo.svg" alt="Nathan's DEV Profile" height="21" width="21">
 </a>
 <a href="https://stackoverflow.com/users/13151164/nathn">
-  <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/stackoverflow-logo.svg" alt="Nathn's StackOverflow Profile" height="21" width="21">
+  <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/stackoverflow-logo.png" alt="Nathn's StackOverflow Profile" height="21" width="21">
 </a>
 <br />
 <br />
