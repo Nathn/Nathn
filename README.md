@@ -34,6 +34,8 @@ I love doing web development and sharing my side projects on Github.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
+![Nathn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&theme=dark&hide=contribs,prs,issues)
+
 ![counter](https://eniepbxd6ioqkta.m.pipedream.net)
 
 <!--
