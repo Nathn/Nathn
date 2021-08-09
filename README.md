@@ -21,7 +21,7 @@
 Hi, I'm Nathan Tranchant, a passionate CS student from France.<br />
 I love doing web development and sharing my side projects on Github.
 
-- 🔭 I’m currently working on my projects [Squakr](https://github.com/Nathn/Squakr) and [NTChat](https://github.com/Nathn/NTChat)
+- 🔭 I’m currently working on my projects [GeoDraw](https://github.com/Nathn/GeoDraw) and [NTChat](https://github.com/Nathn/NTChat)
 - 🌱 I’m currently learning Typescript & Golang
 - ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
