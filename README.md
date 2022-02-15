@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-### Hi there, I'm [Nathan !](http://nathn.tech) 👋
+### Hi there, I'm [Nathan !](https://tranchant.tech) 👋
 
 <a href="https://twitter.com/natranchant">
   <img align="left" alt="@NaTranchant | Twitter" width="21px" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/twitter-logo.svg" />
@@ -22,7 +22,7 @@ Hi, I'm Nathan Tranchant, a passionate CS student from France.<br />
 I love doing web development and sharing my side projects on Github.
 
 - 🔭 I’m currently working on my projects [GeoDraw](https://github.com/Nathn/GeoDraw) and [NTChat](https://github.com/Nathn/NTChat)
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and ReactJS
 - ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
 
