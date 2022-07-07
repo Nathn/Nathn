@@ -37,7 +37,6 @@ I love doing web development and sharing my side projects on Github.
 ![Nathn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&theme=dark&hide=contribs,prs,issues)
 
 ![Visits Counter](https://eniepbxd6ioqkta.m.pipedream.net)
-![Years on Github](https://badges.pufler.dev/years/Nathn)
 
 <!--
 **NthTr/NthTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
