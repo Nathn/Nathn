@@ -49,15 +49,9 @@ I love doing web development and sharing my side projects on Github.
   <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&locale=en" alt="Nathn" /></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Nathn" alt="Nathn" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Nathn&theme=chalk" alt="Nathn" /></a>
-</p>
 
 <p>
-  <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathn&" alt="luciferbahamut" /></a>
+  <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathn&" alt="Nathn" /></a>
 </p>
 <p> 
   <a href="https://github.com/Nathn#gh-dark-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathn&theme=dark" alt="Nathn" /></a>
