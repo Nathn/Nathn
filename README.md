@@ -34,9 +34,36 @@ I love doing web development and sharing my side projects on Github.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
-![Nathn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&theme=dark&hide=contribs,prs,issues)
+<h3>Github Stats</h3>
+<p>
+  <a href="https://github.com/Nathn#gh-dark-mode-only"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathn&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nathn" /></a>
+</p>
+<p>
+  <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathn&show_icons=true&locale=en&layout=compact&theme=light" alt="Nathn" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/Nathn#gh-dark-mode-only"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&locale=en&theme=dark" alt="Nathn" /></a>
+</p>
+<p>
+  <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathn&show_icons=true&locale=en" alt="Nathn" /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Nathn" alt="Nathn" /></a>
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Nathn&theme=chalk" alt="Nathn" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/Nathn#gh-light-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathn&" alt="luciferbahamut" /></a>
+</p>
+<p> 
+  <a href="https://github.com/Nathn#gh-dark-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathn&theme=dark" alt="Nathn" /></a>
+</p>
 
 ![Visits Counter](https://eniepbxd6ioqkta.m.pipedream.net)
 
 <!--
-**NthTr/NthTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nathn/Nathn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
