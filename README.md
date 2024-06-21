@@ -21,8 +21,8 @@
 Hi, I'm Nathan Tranchant, a passionate CS student from France.<br />
 I love doing web development and sharing my side projects on Github.
 
-- 🔭 I’m currently working on my projects [GeoDraw](https://github.com/Nathn/GeoDraw) and [NTChat](https://github.com/Nathn/NTChat)
-- 🌱 I’m currently learning ReactJS & Angular
+- 🔭 I’m currently working on my graduation project [LighTouch](https://github.com/LighTouchOrg)
+- 🌱 I’m currently learning data science
 - ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
 
