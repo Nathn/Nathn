@@ -1,19 +1,22 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-### Hi there, I'm [Nathan !](https://tranchant.tech) 👋
+### Hi there, I'm [Nathan](https://tranchant.tech) ! 👋
 
-<a href="https://twitter.com/natranchant">
+<a href="https://twitter.com/natranchant" title="Twitter">
   <img align="left" alt="@NaTranchant | Twitter" width="21px" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/twitter-logo.svg" />
 </a>
-<a href="https://discord.com/users/260041679162048513">
+<a href="https://discord.com/users/260041679162048513" title="Discord">
   <img align="left" alt="Nathn's Discord profile" width="21px" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/discord-logo.svg" />
 </a>
-<a href="https://dev.to/nathn">
+<a href="https://dev.to/nathn" title="DEV.to">
   <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/dev-logo.svg" alt="Nathan's DEV Profile" height="21" width="21">
 </a>
-<a href="https://stackoverflow.com/users/13151164/nathn">
+<a href="https://stackoverflow.com/users/13151164/nathn" title="StackOverflow">
   <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/stackoverflow-logo.png" alt="Nathn's StackOverflow Profile" height="21" width="21">
+</a>
+<a href="https://www.kaggle.com/tranchant" title="Kaggle">
+  <img align="left" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/kaggle-logo.png" alt="Nathan Tranchant's Kaggle Profile" height="21" width="21">
 </a>
 <br />
 <br />
@@ -21,8 +24,8 @@
 Hi, I'm Nathan Tranchant, a passionate CS student from France.<br />
 I love doing web development and sharing my side projects on Github.
 
-- 🔭 I’m currently working on my graduation project [LighTouch](https://github.com/LighTouchOrg)
-- 🌱 I’m currently learning data science
+- 🔭 I’m currently working on my graduation project [LighTouch](https://lightouchorg.github.io/)
+- 🌱 I’m currently learning data science at [TU Dublin](https://www.tudublin.ie/)
 - ❔ Ask me about anything [here](https://github.com/Nathn/Nathn/issues)
 - 💬 You can contact me [on Discord](https://discord.com/users/260041679162048513)
 
