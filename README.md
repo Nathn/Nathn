@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-### Hi there, I'm [Nathan](https://tranchant.tech) ! 👋
+### Hi there, I'm [Nathan](https://tranchant.dev) ! 👋
 
 <a href="https://twitter.com/natranchant" title="Twitter">
   <img align="left" alt="@NaTranchant | Twitter" width="21px" src="https://raw.githubusercontent.com/nathn/nathn/master/assets/twitter-logo.svg" />
